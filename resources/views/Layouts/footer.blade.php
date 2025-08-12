@@ -1,3 +1,9 @@
-<footer class="bg-red-800 text-white text-center py-4 fixed bottom-0 w-full z-50 shadow-md">
-    <p class="m-0">&copy; 2025 <span class="font-semibold">Baherindo Motor</span>. All rights reserved.</p>
+<footer class="bg-gray-900 text-gray-300 text-center py-4 w-full shadow-lg">
+  <p class="m-0 text-sm md:text-base tracking-wide">
+    &copy; 2025 
+    <span class="font-semibold text-red-500 hover:text-red-400 transition-colors duration-300">
+      Baherindo Motor
+    </span> 
+    — All rights reserved.
+  </p>
 </footer>
